@@ -1,0 +1,5 @@
+[${XDG_CONFIG_HOME:-$HOME/.config}/vcsh/repo.d/supervisord.git]
+checkout = vcsh clone git@stillwell.me:mark/vcsh-homedir-supervisord.git supervisord
+           vcsh supervisord set-url --add --push origin git@stillwell.me:mark/vcsh-homedir-supervisord.git
+           vcsh supervisord set-url --add --push origin git@github.com:marklee77/vcsh-homedir-supervisord.git
+           vcsh supervisord set-url --add --push origin git@bitbucket.org:marklee77/vcsh-homedir-supervisord.git

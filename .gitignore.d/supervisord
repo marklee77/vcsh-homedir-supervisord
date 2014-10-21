@@ -1,0 +1,12 @@
+*
+!.config
+!.config/mr
+!.config/mr/config.d
+!.config/mr/config.d/supervisord
+!.config/supervisor
+!.config/supervisor/supervisord.conf
+!.config/zsh
+!.config/zsh/profile.d
+!.config/zsh/profile.d/supervisord
+!.gitignore.d
+!.gitignore.d/supervisord
