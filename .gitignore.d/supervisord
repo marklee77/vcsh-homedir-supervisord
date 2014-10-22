@@ -5,8 +5,8 @@
 !.config/mr/config.d/supervisord
 !.config/supervisor
 !.config/supervisor/supervisord.conf
-!.config/zsh
-!.config/zsh/profile.d
-!.config/zsh/profile.d/supervisord
+!.config/xsession
+!.config/xsession/rc.d
+!.config/xsession/rc.d/supervisord
 !.gitignore.d
 !.gitignore.d/supervisord
