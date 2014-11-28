@@ -1,1 +1,1 @@
-supervisord -c .config/supervisor/supervisord.conf
+#supervisord -c .config/supervisor/supervisord.conf
