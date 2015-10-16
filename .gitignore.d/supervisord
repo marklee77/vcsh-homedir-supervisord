@@ -3,8 +3,8 @@
 !.config/mr
 !.config/mr/config.d
 !.config/mr/config.d/supervisord
-!.config/supervisor
-!.config/supervisor/supervisord.conf
+!.config/supervisord
+!.config/supervisord/supervisord.conf
 !.config/xsession
 !.config/xsession/rc.d
 !.config/xsession/rc.d/supervisord
