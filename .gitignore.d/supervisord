@@ -8,5 +8,8 @@
 !.config/xsession
 !.config/xsession/rc.d
 !.config/xsession/rc.d/supervisord
+!.config/zsh
+!.config/zsh/rc.d
+!.config/zsh/rc.d/supervisord
 !.gitignore.d
 !.gitignore.d/supervisord

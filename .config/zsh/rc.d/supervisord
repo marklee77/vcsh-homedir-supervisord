@@ -1,0 +1,1 @@
+alias supervisorctl="supervisorctl -c ${XDG_CONFIG_HOME:-${HOME}/.config}/supervisor/supervisord.conf -s unix://${XDG_RUNTIME_DIR:-${HOME}/.local/var/run}/supervisord.sock"
