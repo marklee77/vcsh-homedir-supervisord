@@ -1,1 +1,1 @@
-#supervisord -c ${XDG_CONFIG_HOME:-${HOME}/.config}/supervisord/supervisord.conf
+supervisord -c ${XDG_CONFIG_HOME:-${HOME}/.config}/supervisord/supervisord.conf
