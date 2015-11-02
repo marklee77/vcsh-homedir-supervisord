@@ -1,1 +1,1 @@
-#supervisord -c ${XDG_CONFIG_HOME:-${HOME}/.config}/supervisord/supervisord.conf
+export PATH="${HOME}/.local/bin:${PATH}"
